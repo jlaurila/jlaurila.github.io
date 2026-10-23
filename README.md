@@ -1,3 +1,5 @@
 # jlaurila.github.io
 
-Nothing published here at the moment.
+Published at https://jlaurila.github.io/
+
+- `vainamoinen/`: Väinämöinen (June 1942) live 3D presentation, single-file build.
